@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryan890000
 - 👀 I’m interested in learning coding..
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning mongo
 - 📫 How to reach me:aryanmane890000@gmail.com
 - 😄 Pronouns: him
 - ⚡ self fact: autism 
